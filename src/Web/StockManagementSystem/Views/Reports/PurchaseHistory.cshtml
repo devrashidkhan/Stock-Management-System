@@ -1,0 +1,157 @@
+﻿@model IEnumerable<StockManagementSystem.Models.ViewModel.PurchaseHistoryView>
+@{
+    ViewData["Title"] = "PurchaseHistory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <div class="card shadow">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Purchase</h6>
+        </div>
+        <div class="card-body">
+            <form id="purchaseHistoryForm" method="POST" asp-controller="Reports" asp-action="PurchaseHistory">
+
+                <div class="form-group row">
+                    <div class="col-sm-2">
+                        <label for="dateFrom">Date from</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input required type="date" class="form-control" id="dateFrom" name="DateFrom" placeholder="DateFrom">
+
+                    </div>
+                    <div class="col-sm-2">
+                        <input type="submit" id="search" class="btn btn-success" name="Search" value="Search" />
+
+                    </div>
+                    <div class="col-sm-4">
+
+                    </div>
+
+                </div>
+
+                <div class="form-group row">
+
+                    <div class="col-sm-2">
+                        <label for="dateTo">Date To</label>
+                    </div>
+                    <div class="col-sm-4">
+                        <input required type="date" class="form-control" id="dateTo" name="DateTo" placeholder="Date To">
+
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+
+<div>
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">All Purchase History</h6>
+
+            <div class="dropdown no-arrow" style="float:right">
+                
+                    <select required class="selectpicker form-select form-select mb-3" Name="VendorId" id="vendorId">
+                        <option value="" disabled selected>Select Vendor</option>
+                        @foreach (var item in ViewBag.Vendors)
+                        {
+                            <option value="@item.VendorId">@item.Name</option>
+                        }
+
+                    </select>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Purchase Date</th>
+                            <th>Vendor Name</th>
+                            <th>Category Name</th>
+                            <th>Item Name</th>
+                            <th>No. of Quantity</th>
+                            <th>Unit Price</th>
+                            <th>Total Amount<sup>BDT</sup></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            int totalQuantity = 0;
+                            decimal totalamount = 0;
+                            foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>@item.PurchaseDate.ToString("dd-MMM-yyyy")</td>
+                                    <td>@item.VendorName</td>
+                                    <td>@item.CategoryName</td>
+                                    <td>@item.ItemName</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@item.UnitPrice</td>
+                                    <td>@(item.Quantity*item.UnitPrice)</td>
+
+                                </tr>
+                                totalQuantity += item.Quantity;
+                                totalamount += (item.Quantity * item.UnitPrice);
+
+                            }
+                            <tr style="font-weight: bold;">
+                                <td>Total</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>@totalQuantity</td>
+                                <td></td>
+                                <td>@totalamount BDT</td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('#dataTable').DataTable({
+                language: {
+                    search: "_INPUT_",
+                    searchPlaceholder: "Search here"
+                },
+                dom: 'Bfrtip',
+                buttons: [
+                    {
+                        extend: 'collection',
+                        text: 'Export',
+                        buttons: [
+                            'copy',
+                            'excel',
+                            'csv',
+                            'pdf'
+                        ]
+                    }
+                ],
+                "columnDefs": [{ targets: [4, 5, 6], className: 'dt-body-right' },
+                { targets: [0, 1, 2,3], className: 'dt-body-center' }],
+            });
+
+            $('#vendorId').on('change', function () {
+                //$(this).closest('form').submit();
+                var vendorName = $('#vendorId option:selected').text();
+
+                var data_table = $('#dataTable').DataTable();
+                data_table.columns(1).search(vendorName, true, false).draw();
+            });
+        });
+    </script>
+}

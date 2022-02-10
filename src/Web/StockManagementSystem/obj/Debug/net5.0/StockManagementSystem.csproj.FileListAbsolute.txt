@@ -1,0 +1,832 @@
+E:\Project\StockManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+E:\Project\StockManagementSystem\bin\Debug\net5.0\appsettings.json
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.exe
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.deps.json
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.json
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.dev.json
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ref\StockManagementSystem.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.pdb
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\mscorlib.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\netstandard.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Console.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Memory.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Web.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Windows.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.Views.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.Views.pdb
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Humanizer.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\StockManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorAssemblyInfo.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorAssemblyInfo.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\staticwebassets\StockManagementSystem.StaticWebAssets.Manifest.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\staticwebassets\StockManagementSystem.StaticWebAssets.xml
+E:\Project\StockManagementSystem\obj\Debug\net5.0\scopedcss\bundle\StockManagementSystem.styles.css
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.TagHelpers.input.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.TagHelpers.output.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorCoreGenerate.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Clients\ClientsList.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Items\ItemList.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Vendors\VendorsList.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorTargetAssemblyInfo.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorTargetAssemblyInfo.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.Views.pdb
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.CopyComplete
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.dll
+E:\Project\StockManagementSystem\obj\Debug\net5.0\ref\StockManagementSystem.dll
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.pdb
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.genruntimeconfig.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Purchase\PurchaseEntry.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Sale\Index.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.AssemblyReference.cache
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Reports\PurchaseHistory.cshtml.g.cs
+E:\Project\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Reports\SaleHistory.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\appsettings.json
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.StaticWebAssets.xml
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.exe
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.deps.json
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.json
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.runtimeconfig.dev.json
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ref\StockManagementSystem.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.pdb
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\mscorlib.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\netstandard.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.AppContext.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Buffers.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Configuration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Console.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.Common.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Data.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Drawing.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Memory.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Mail.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Ping.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Requests.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Security.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Numerics.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ObjectModel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Claims.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Transactions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.ValueTuple.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Web.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Windows.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\refs\WindowsBase.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.Views.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\StockManagementSystem.Views.pdb
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Humanizer.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\LEADS IT\StockManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.AssemblyReference.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.AssemblyInfoInputs.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.AssemblyInfo.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.CoreCompileInputs.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorAssemblyInfo.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorAssemblyInfo.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\scopedcss\bundle\StockManagementSystem.styles.css
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\staticwebassets\StockManagementSystem.StaticWebAssets.Manifest.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.TagHelpers.input.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.TagHelpers.output.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorCoreGenerate.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Clients\ClientsList.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Items\ItemList.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Purchase\PurchaseEntry.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Reports\PurchaseHistory.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Reports\SaleHistory.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Sale\Index.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\Vendors\VendorsList.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorTargetAssemblyInfo.cache
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.RazorTargetAssemblyInfo.cs
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.Views.pdb
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.csproj.CopyComplete
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.dll
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\ref\StockManagementSystem.dll
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.pdb
+E:\LEADS IT\StockManagementSystem\obj\Debug\net5.0\StockManagementSystem.genruntimeconfig.cache

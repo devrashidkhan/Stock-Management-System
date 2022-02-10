@@ -1,0 +1,138 @@
+﻿@model IEnumerable<Client>
+@{
+    ViewData["Title"] = "ClientsList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Clients List</h6>
+
+            <div class="dropdown no-arrow" style="float:right">
+                <input type="button" class="btn btn-success btn-sm" value="Add New Client" id="AddNewButton" />
+
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th style="display:none"></th>
+                            <th>Client Name</th>
+                            <th>Phone Number</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{ foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td style="display:none">@item.ClientId</td>
+                                    <td>@item.Name</td>
+                                    <td>@item.PhoneNumber</td>
+                                    <td>
+                                        <form id="deleteForm" asp-controller="Clients" asp-action="DeleteClientById">
+                                            <input type="hidden" name="ClientId" value="@item.ClientId" />
+                                            <input type="button" class="btn btn-danger btn-sm dltBtn" name="delete" value="Delete" />
+                                            <input type="button" class="btn btn-info btn-sm editButton" value="Edit" />
+
+                                        </form>
+
+                                    </td>
+                                </tr>
+                            } }
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    @*Client modal*@
+    <div class="modal fade" id="AddNew" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <form asp-controller="Clients" asp-action="AddNewClient">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Client Information</h5>
+                        <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <input type="hidden" name="ClientId" id="clientId" />
+
+                        <div class="form-group row">
+                            <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control" id="inputName" name="Name" placeholder="Name">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPhone" class="col-sm-2 col-form-label">Phone Number</label>
+                            <div class="col-sm-10">
+                                <input type="Number" required max="9999999999999" class="form-control" id="inputPhone" name="PhoneNumber" placeholder="Phone Number">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-secondary btn-sm" type="button" data-dismiss="modal">Cancel</button>
+                        <input type="submit" class="btn btn-primary btn-sm" name="Save" value="Save" />
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+
+
+
+            $('#AddNewButton').on('click', function () {
+                ClearField();
+                $('#AddNew').modal();
+                //alert('clicked');
+            });
+
+
+            $('.editButton').on('click', function () {
+                ClearField();
+                $('#AddNew').modal();
+                var clientId = $(this).closest('tr').children('td:eq(0)').text();
+                var clientName = $(this).closest('tr').children('td:eq(1)').text();
+                var clientPhoneNumber = $(this).closest('tr').children('td:eq(2)').text();
+
+                $('#clientId').val(clientId);
+                $('#inputName').val(clientName);
+                $('#inputPhone').val(clientPhoneNumber);
+
+            });
+            function ClearField() {
+                $('#clientId').val('');
+                $('#inputName').val('');
+                $('#inputPhone').val('');
+            }
+
+            $('.dltBtn').on('click', function () {
+                Swal.fire({
+                    title: 'Do you want to Delete?',
+                    showCancelButton: true,
+                    confirmButtonText: 'Delete',
+                }).then((result) => {
+                    /* Read more about isConfirmed, isDenied below */
+                    if (result.isConfirmed) {
+                        $('#deleteForm').submit();
+                    }
+                })
+            });
+        });
+    </script>
+} 
